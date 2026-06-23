@@ -1,5 +1,9 @@
 # 💫 About Me:
-A Computer Science student with a strong interest in technology, problem-solving, and continuous learning.<br><br>💡 I believe in building strong fundamentals and understanding concepts step by step.<br><br>🎯 My focus areas:<br>- AI & Machine Learning<br>- Software Development<br>- Real-world problem solving<br><br>I am currently learning, building projects, and striving to improve every day.
+Computer Science student passionate about building full-stack applications, AI-powered solutions, and automation systems that solve real-world problems.
+
+I enjoy transforming ideas into scalable products, exploring emerging technologies, and continuously strengthening my software engineering fundamentals. Currently focused on developing practical projects, learning modern development practices, and growing as a developer every day.
+
+💻 Full-Stack Development | 🤖 AI & Automation | ⚙️ Software Engineering
 
 
 # 💻 Tech Stack:
